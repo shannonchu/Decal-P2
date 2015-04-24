@@ -1,6 +1,8 @@
 # Decal-P2
 Title: Cookery
+
 Team Members: Drew Haymond, Shannon Chu
+
 Demo Link: **IN PROGRESS**
 
 Idea: An application where users can post and share their favorite recipes (complete with pictures!) and review the recipes of their friends.
